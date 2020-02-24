@@ -1,0 +1,10 @@
+{
+  "domain": "heyu",
+  "name": "HEYU",
+  "documentation": "https://github.com/mtl010957/heyu",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [
+    "@mtl010957"
+  ]
+}
