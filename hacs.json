@@ -1,6 +1,5 @@
 
 {
     "name": "HEYU",
-    "domains": ["switch","light"],
-    "iot_class": "Local Polling"
+    "domains": ["switch", "light"]
 }
