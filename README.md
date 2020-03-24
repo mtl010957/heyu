@@ -1,2 +1,2 @@
 # heyu
-HEYU integration custom component for Homeassistant
+HEYU integration custom component for Home Assistant
